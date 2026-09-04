@@ -1,9 +1,11 @@
 # TENDER SYSTEMS
 
-Systems for what resists capture.
+Systems for things that resist measurement.
 
-## Running Systems
+---
 
-[OTHER GOODS](https://github.com/TENDER-SYSTEMS-LAB/other-goods-lab)
+## ACTIVE SYSTEMS
 
-[LONGING](https://github.com/TENDER-SYSTEMS-LAB/longing-lab)
+[**OG-001 — OTHER GOODS**](https://github.com/TENDER-SYSTEMS-LAB/other-goods-lab)
+
+[**LN-001 — LONGING**](https://github.com/TENDER-SYSTEMS-LAB/longing-lab)
